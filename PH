@@ -30,9 +30,9 @@ https://smart-tv.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1group-title="SportHD",SkySportMainE
 http://mat4k.com:8080/live/190ph3q4q863kvk5/190ph3q4q863kvk5/194731.m3u8
 #EXTINF:-1group-title="Sport",BTSport1
-http://javaprotcol.com:2082/live/kuchini.site/TfUjeuXg78/32197.m3u8
+http://server.sibfungold.info:8080/gaicu84/Vv094Vv094wOlsHwOlsH/3600
 #EXTINF:-1group-title="Sport",BTSport2
-http://javaprotcol.com:2082/live/kuchini.site/TfUjeuXg78/32198.m3u8
+http://server.sibfungold.info:8080/gaicu84/Vv094Vv094wOlsHwOlsH/3601
 #EXTINF:-1  group-title="Sport",AstroSuperSport
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54206.m3u8
 #EXTINF:-1  group-title="Sport",AstroSuperSport2
@@ -48,15 +48,15 @@ https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:-1group-title="Sport",ElevenSport1
 https://tinyurl.com/58n896ay
 #EXTINF:-1  group-title="Sport",BeinPremium 1HD
-http://xcwsnl28.mrnova.online:80/live/60080_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+http://88.barouhn.xyz.global.prod.fastly.net:80/live/6161655/index.m3u8
 #EXTINF:-1 group-title="Sport",BeinPremium2HD
-http://xcwsnl28.mrnova.online:80/live/60081_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
 #EXTINF:-1  group-title="Sport", Bein Premium3HD
-http://xcwsnl28.mrnova.online:80/live/60082_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+http://ctn.bounbrzouw.xyz:80/live/6151278887/index.m3u8
 #EXTINF:-1  group-title="Sport", SuperSport EPL
 http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/110698.m3u8
 #EXTINF:-1group-title="Sport",Bein premium 1
-http://xcwsnl28.mrnova.online:80/live/60070_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+
 #EXTINF:-1group-title="Sport",Bein premium2
 http://xcwsnl28.mrnova.online:80/live/60071_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
 #EXTINF:-1group-title="Sport",Bein premium3
@@ -153,12 +153,12 @@ https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
 #EXTINF:-1group-title="Kids",Boomerang
 http://198.16.106.62:8278/streams/d/Boomerang/playlist.m3u8
-#EXTINF:-1group-title="Sport",Bein premium 1sd
-http://xcwsnl28.mrnova.online:80/live/60010_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1group-title="Sport",Bein premium 2sd
-http://xcwsnl28.mrnova.online:80/live/60011_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1group-title="Sport",Bein premium 3sd
-http://xcwsnl28.mrnova.online:80/live/60012_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1group-title="Sport",SonyTen1
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+#EXTINF:-1group-title="Sport",SonyTen2
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+#EXTINF:-1group-title="Sport",SonyTen3
+
 #EXTINF:-1group-title="Sport",Bein Sport1sd
 http://xcwsnl28.mrnova.online:80/live/60013_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1group-title="Sport",Bein Sport2sd
