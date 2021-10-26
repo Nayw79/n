@@ -56,29 +56,29 @@ http://ctn.bounbrzouw.xyz:80/live/6151278887/index.m3u8
 #EXTINF:-1  group-title="Sport", SuperSport EPL
 http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/110698.m3u8
 #EXTINF:-1group-title="Sport",Bein premium 1
-
+http://88.barouhn.xyz.global.prod.fastly.net:80/live/6161655/index.m3u8
 #EXTINF:-1group-title="Sport",Bein premium2
-http://xcwsnl28.mrnova.online:80/live/60071_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
 #EXTINF:-1group-title="Sport",Bein premium3
-http://xcwsnl28.mrnova.online:80/live/60072_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+http://ctn.bounbrzouw.xyz:80/live/6151278887/index.m3u8
 #EXTINF:-1group-title="Sport",Bein Sport1
-http://xcwsnl28.mrnova.online:80/live/60073_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+http://xtream-ui04.feel-tv.com:25461/live/jhgjhmnb/jykcZo6yjz/6.m3u8
 #EXTINF:-1group-title="Sport",Bein Sport2
-http://xcwsnl28.mrnova.online:80/live/60074_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+http://xtream-ui04.feel-tv.com:25461/jhgjhmnb/jykcZo6yjz/5
 #EXTINF:-1group-title="Sport",Bein Sport3
-http://xcwsnl28.mrnova.online:80/live/60075_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+http://74.amanrouf.xyz:80/live/645587700/index.m3u8
 #EXTINF:-1group-title="Sport",Bein Sport4
-http://xcwsnl28.mrnova.online:80/live/60076_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+http://72.amanrouf.xyz:80/live/9787488847/index.m3u8
 #EXTINF:-1group-title="Sport",Bein Sport5
-http://xcwsnl28.mrnova.online:80/live/60077_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+http://55.banrhfour.xyz.global.prod.fastly.net:80/live/610303030/index.m3u8
 #EXTINF:-1group-title="Sport",Bein Sport6
-http://xcwsnl28.mrnova.online:80/live/60078_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+http://55.banrhfour.xyz.global.prod.fastly.net:80/live/1515000000/index.m3u8
 #EXTINF:-1group-title="Sport",Bein Sport7
-http://xcwsnl28.mrnova.online:80/live/60079_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+http://55.banrhfour.xyz.global.prod.fastly.net:80/live/791001144/index.m3u8
 #EXTINF:-1group-title="Sport",Bein SportExtera1
-http://xcwsnl28.mrnova.online:80/live/60459_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+http://88.barouhn.xyz.global.prod.fastly.net:80/live/9962564400/index.m3u8
 #EXTINF:-1group-title="Sport",Bein SportExtera2
-http://xcwsnl28.mrnova.online:80/live/60460_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+http://88.barouhn.xyz.global.prod.fastly.net:80/live/880025552/index.m3u8
 #EXTINF:-1group-title="Sport",FITE
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF:-1group-title="Sport",ESPN
@@ -86,11 +86,11 @@ http://stream2.grandma.fit/fs2.m3u8?Token=Xemtvco
 #EXTINF:-1group-title="Sport",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1group-title="Sport",FOX Sport1
-https://vips-livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
+http://server.sibfungold.info:8080/gaicu84/Vv094Vv094wOlsHwOlsH/1529
 #EXTINF:-1group-title="Sport",FOX Sport2
-https://vips-livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
+http://server.sibfungold.info:8080/gaicu84/Vv094Vv094wOlsHwOlsH/1530
 #EXTINF:-1group-title="Sport",FOX Sport3
-https://vips-livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
+http://server.sibfungold.info:8080/gaicu84/Vv094Vv094wOlsHwOlsH/1531
 #EXTINF:-1group-title="SportHD",BeinSport1Premium
 http://xcwsnl28.mrnova.online:80/live/60080_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
 #EXTINF:-1group-title="SportHD",BeinSport2Premium
